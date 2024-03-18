@@ -5,7 +5,7 @@ header {
     border-bottom: 1px solid #CCCCCC;
 }
 
-div {
+div.logo {
     height: inherit;
     background: url("/images/hbnb_logo_name.png") no-repeat left;
     margin-left: 20px;
