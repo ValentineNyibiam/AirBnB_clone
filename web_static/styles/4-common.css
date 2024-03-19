@@ -10,3 +10,8 @@ div.container {
     max-width: 1000px;
     margin: 30px auto;
 }
+
+.no_bullet {
+    list-style: none;
+    margin-bottom: 10px;
+}
