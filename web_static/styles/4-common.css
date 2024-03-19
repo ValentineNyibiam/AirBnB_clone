@@ -15,3 +15,13 @@ div.container {
     list-style: none;
     margin-bottom: 10px;
 }
+
+.interface_structure{
+    min-height: 100vh - 60px;
+}
+
+.grid_div {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+}
