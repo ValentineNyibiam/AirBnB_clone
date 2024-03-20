@@ -10,7 +10,7 @@
     text-align: center;
 }
 
-.article-center {
+.articles-center {
     display: flex;
     justify-content: space-around;
 }
