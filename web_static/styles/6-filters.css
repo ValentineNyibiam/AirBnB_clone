@@ -73,4 +73,5 @@ h4 {
 .locations:hover .popover, 
 .amenities:hover .popover {
     visibility: visible;
+    background-color: #DDDDDD;
 }
